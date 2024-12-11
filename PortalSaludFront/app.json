@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "PortalSalud",
+    "slug": "PortalSaludFront",
+    "version": "1.0.0",
+    "scheme": "PortalSalud",
+    "icon": "./assets/favicon.png",
+    "android": {
+      "allowBackgroundActivity": true, 
+      "package": "com.anonymous.PortalSalud",
+      "adaptiveIcon":{
+        "foregroundImage":"./assets/favicon.png"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7d5aa691-d9a4-4d23-951f-a478e4ca700b"
+    },
+    "ios": {},
+    "owner": "drosky",
+    "extra": {
+      "eas": {
+        "projectId": "7d5aa691-d9a4-4d23-951f-a478e4ca700b"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
